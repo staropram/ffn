@@ -1,0 +1,3 @@
+*.o
+ffn_xor_text
+ffn_serialisation_test
