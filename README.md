@@ -1,7 +1,9 @@
 # ffn
-A simple feed-forward neural network library that supports per-unit activation function control
+A simple feed-forward neural network library that supports per-unit activation function control.
 
-I wrote this probably 10 years ago but thought it might be useful to someone.
+Only dependency is easy_rng for pseudo-random number generation.
+
+I wrote this 13 years ago! but thought it might be useful to someone.
 
 Here is an example of simple usage to solve the most trivial of non-linear problems: XOR
 
